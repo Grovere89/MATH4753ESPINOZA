@@ -7,6 +7,7 @@
 #'
 #' @examples
 #' y <- 1:10; my firstdunction(y)
+#'
 myfirstfun <- function(x){
   x^2
 }
