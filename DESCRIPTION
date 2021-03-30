@@ -11,3 +11,6 @@ Encoding: UTF-8
 LazyData: true
 URL: https://github.com/Grovere89/MATH4753ESPINOZA
 BugReports: https://github.com/Grovere89/MATH4753ESPINOZA/issues
+RoxygenNote: 7.1.1
+Depends: 
+    R (>= 2.10)
