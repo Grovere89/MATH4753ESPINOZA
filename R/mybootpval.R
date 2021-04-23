@@ -1,6 +1,6 @@
-#' Confidence Interval
+#' Bootpval
 #'
-#' Function to obtain 95 percent confidence interval for a given set of data
+#'
 #'
 #' @param x1
 #' @param mu
